@@ -13,7 +13,7 @@ anda bisa pelajari lengkapnya di http://doc.sendmantic.my.id/
 ```php
 use Sendmantic\Sendmantic;
 
-$apiToken = 'apikey anda disini';
+$apikey = 'apikey anda disini';
 $sendmantic = new Sendmantic($apikey);
 
 // get infopaket
