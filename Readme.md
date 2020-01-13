@@ -2,7 +2,7 @@
 
 ## Install
 ```php
-composer require sendmantic/sendmantic
+composer require "sendmantic/sendmantic"
 ```
 
 ## Cara menggunakan
