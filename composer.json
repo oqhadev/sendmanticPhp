@@ -1,6 +1,6 @@
 {
-    "name": "sendmantic/sendmantic-client",
-    "description": "Official sendmantic Client",
+    "name": "sendmantic/sendmantic",
+    "description": "Official sendmantic php library",
     "type": "library",
     "license": "MIT",
     "authors": [
