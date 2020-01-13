@@ -1,5 +1,5 @@
 <?php
-
+namespace Sendmantic;
 use GuzzleHttp\Client as GuzzleClient;
 use GuzzleHttp\RequestOptions;
 
